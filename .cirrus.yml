@@ -206,3 +206,4 @@ task:
         - flutter channel master
         - ./script/incremental_build.sh build-examples --macos --no-ipa
         - ./script/incremental_build.sh drive-examples --macos
+
